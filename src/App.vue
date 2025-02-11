@@ -91,7 +91,7 @@ button {
 
 li {
   padding: 10px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #FFFFFF;
 }
 
 .completed {
